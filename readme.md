@@ -88,6 +88,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Extensions & Plugins
 
 * [Cline](https://cline.bot/) — Connects to your CLI and editor, interprets natural commands.
+* [ContextStream](https://contextstream.io) — Shared project context for Cursor, Claude Code, Codex, Grok, and other MCP coding agents.
 * [Roo Code](https://github.com/RooVetGit/Roo-Code) — An enhanced version of Cline.
 * [avante.nvim](https://github.com/yetone/avante.nvim) — Neovim integration modeled after Cursor’s AI features.
 * [Prompt Tower](https://github.com/backnotprop/prompt-tower) — A prompt creation interface supporting complex code blocks.

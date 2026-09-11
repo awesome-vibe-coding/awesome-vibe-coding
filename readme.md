@@ -53,6 +53,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Trickle](https://www.trickle.so/) — AI-based visual builder for websites and apps.
 * [Tempo](https://www.tempo.new/) — Build React projects much faster through AI assistance.
 * [Softgen](https://softgen.ai/) — Describe a concept and generate a working full-stack app.
+* [Taskade Genesis](https://www.taskade.com/create) — Prompt-to-app builder that turns a description into a live portal, CRM, or dashboard with agents and automations.
 * [Lazy AI](https://getlazy.ai/) — Enterprise-focused prompt-based application builder.
 * [HeyBoss](https://www.heyboss.xyz/) — Generate functional websites quickly.
 * [Creatr](https://getcreatr.com/) — Build landing pages and simple apps instantly.

@@ -169,6 +169,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [VibeLeaderboard](https://www.vibeleaderboard.ai) — Editorially gated index of AI coding tools and vibe-coded apps, organized by capability, with an MCP server.
 
 ---
 

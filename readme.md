@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Usage HUD](https://hud.thaliabloom.com) — Native Mac menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows, with a confidence label on every number.
 
 ---
 

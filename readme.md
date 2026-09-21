@@ -141,6 +141,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Monitoring & Cost Tracking
 
+* [NextReset](https://nextreset.ai/) — Tracks source-linked Codex reset history and official AI-service incidents, with a browser-local personal timer.
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
 ---

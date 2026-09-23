@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) — Independent desktop companion displaying Codex quota, reset time, and reset credits beside the conversation title on Windows and macOS.
 
 ---
 

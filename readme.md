@@ -141,6 +141,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Monitoring & Cost Tracking
 
+* [bough](https://github.com/nickelsec/bough) — Maps local Claude Code, Codex CLI and Pi session history into tasks, with the files, commits, keyboard time and token cost of each piece of work.
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
 ---

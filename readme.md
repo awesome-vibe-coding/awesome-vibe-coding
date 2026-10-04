@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Caprock](https://github.com/dspv/caprock) — Local, open-source dashboard that shows live activity, token cost per repository and plan-limit windows for Claude Code, Codex, OpenCode and Gemini CLI sessions.
 
 ---
 

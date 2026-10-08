@@ -116,6 +116,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [claude-code](https://github.com/anthropics/claude-code) — Works across codebases, provides explanations, automates tasks.
 * [memov](https://github.com/memovai/memov) — Git-based, traceable memory layer for Claude Code.
 * [aider](https://aider.chat/) — Code side-by-side with AI from your terminal.
+* [aisw](https://github.com/burakdede/aisw) — Switches Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles; docs at [aiswitcher.dev](https://aiswitcher.dev).
 * [Goose](https://block.github.io/goose/) — Local agent framework compatible with multiple models.
 * [MyCoder.ai](https://github.com/drivecore/mycoder) — Modular agent with GitHub integration.
 * [RA.Aid](https://github.com/ai-christianson/RA.Aid) — Task-based AI built with LangGraph.

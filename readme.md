@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Reset Ledger](https://resetledger.com/) — Source-linked AI coding usage reset schedules, account-specific timer guidance, and downloadable CSV records.
 
 ---
 

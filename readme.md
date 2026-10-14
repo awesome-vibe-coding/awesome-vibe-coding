@@ -118,6 +118,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [aider](https://aider.chat/) — Code side-by-side with AI from your terminal.
 * [Goose](https://block.github.io/goose/) — Local agent framework compatible with multiple models.
 * [MyCoder.ai](https://github.com/drivecore/mycoder) — Modular agent with GitHub integration.
+* [Next.js Supabase Stripe Security Checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) — CLI and GitHub Action that runs 24 local checks on Next.js, Supabase and Stripe code for exposed keys, missing row level security and unsafe webhook handling.
 * [RA.Aid](https://github.com/ai-christianson/RA.Aid) — Task-based AI built with LangGraph.
 * [CodeSelect](https://github.com/maynetee/codeselect) — Sends structured source context to LLMs.
 * [OpenAI Codex CLI](https://github.com/openai/codex) — Experimental terminal assistant.

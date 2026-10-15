@@ -95,6 +95,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Continue](https://github.com/continuedev/continue) — Build your own in-editor AI agents using plugins and rules.
 * [GitHub Copilot](https://github.com/features/copilot) — Integrated assistant offering code suggestions, chats, and context-aware actions.
 * [Amazon Q](https://aws.amazon.com/q/developer) — AWS’s generative AI solution for developers.
+* [PreflightPR](https://preflightpr.com) — GitHub App that scans vibe-coded repos for security issues and opens fix PRs, with a free web scan.
 * [Superdesign](https://www.superdesign.dev/) — AI design agent for fast UI iterations.
 * [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; ships meta tag and schema markup fixes to WordPress/Strapi/Contentful/Ghost. MIT, 107⭐.
 * [dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/) - Integrated AI tool that generates, optimizes, explains, and fixes SQL queries. 

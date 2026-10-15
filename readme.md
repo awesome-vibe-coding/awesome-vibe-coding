@@ -169,6 +169,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [VibeLocked Security Guides](https://vibelocked.com/guides/)
 
 ---
 

@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Nowdex](https://nowdex.app) — Shows remaining usage and reset times for Codex, Claude, Cursor and 10 more AI coding plans in phone widgets, the Mac menu bar and the Windows notification area.
 
 ---
 

@@ -148,6 +148,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Project Documentation
 
 * [CodeGuide](https://www.codeguide.dev/) — Tool that builds documentation for AI-built projects.
+* [Internal tool blueprints](https://github.com/samclaassen/internal-tool-blueprints) — Markdown specs for internal business tools with data models, phased build prompts and acceptance checks for AI app builders.
 * [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable AI config management platform for teams. Manages AGENTS.md, CLAUDE.md, .cursor/rules/, slash commands, and 30+ formats.
 * [Claude Code Mastery](https://github.com/ShipWithAI/claude-code-mastery) — Structured course for mastering Claude Code workflows, including security, automation, and multi-agent patterns.
 

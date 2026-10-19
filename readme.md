@@ -141,6 +141,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Monitoring & Cost Tracking
 
+* [AI Engineering Analytics](https://github.com/PaceFlow/ai-engineering-analytics) — Local-first CLI that analyzes Claude Code, Codex, Cursor, and OpenCode history to report on sessions, delivery, code quality, and costs.
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
 ---

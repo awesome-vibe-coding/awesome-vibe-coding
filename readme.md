@@ -38,6 +38,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Karpathy on the "vibe coding" mindset](https://x.com/karpathy/status/1886192184808149383) — Not traditional coding. More like shaping software through language and intuition.
 * [AI Coding Guide by Automata](https://github.com/automata/aicodeguide) — A structured starting point for newcomers using AI-first development approaches.
+* [What is hive coding?](https://thehivecode.ai/learn/what-is-hive-coding) — Defines hive coding, where a community votes on changes, an AI agent writes the code, and a human merges it.
 
 ---
 

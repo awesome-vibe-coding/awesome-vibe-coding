@@ -155,20 +155,21 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Articles & Updates
 
-* [Prompt Engineering for Developers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
-* [What Vibe Coding Actually Means](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
-* [LLM Pair Programming](https://pmbanugo.me/blog/peer-programming-with-llms)
-* [The Way of Code](https://www.thewayofcode.com/)
 * [2025 Tooling Overview on LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf)
-* [Karpathy on Menus and Vibes](https://karpathy.bearblog.dev/vibe-coding-menugen/)
-* [Fireship: Mindset Video](https://www.youtube.com/watch?v=Tw18-4U7mts)
 * [Ars Technica on AI Development Futures](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
-* [The New Stack – Everyone Can Program](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
-* [NYTimes: Personal Vibe Coding Experience](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 * [CodingButVibes – What Is Vibe Coding](https://www.codingbutvibes.com/what-is-vibe-coding) — Practical breakdown of the vibe coding approach, with tool comparisons and real developer workflows.
-* [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
+* [Fireship: Mindset Video](https://www.youtube.com/watch?v=Tw18-4U7mts)
+* [Karpathy on Menus and Vibes](https://karpathy.bearblog.dev/vibe-coding-menugen/)
+* [LLM Pair Programming](https://pmbanugo.me/blog/peer-programming-with-llms)
+* [NYTimes: Personal Vibe Coding Experience](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
+* [Prompt Engineering for Developers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+* [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
+* [The New Stack – Everyone Can Program](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
+* [The Way of Code](https://www.thewayofcode.com/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [What Vibe Coding Actually Means](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
+* [Вайб-Кодинг: service website tutorial (Ukrainian)](https://vibe-coding.com.ua/zrazok-saitu-posluhy-z-shi) — Ukrainian-language tutorial with a service-page example, reusable AI prompt, and pre-publication checks.
 
 ---
 

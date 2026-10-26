@@ -160,6 +160,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [LLM Pair Programming](https://pmbanugo.me/blog/peer-programming-with-llms)
 * [The Way of Code](https://www.thewayofcode.com/)
 * [2025 Tooling Overview on LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf)
+- [Jvlang AI Codex Troubleshooting Guide (Chinese)](https://jvlangai.com/guides/codex) — Practical reference for third-party API setup, configuration changes that do not take effect, and 401 diagnosis.
 * [Karpathy on Menus and Vibes](https://karpathy.bearblog.dev/vibe-coding-menugen/)
 * [Fireship: Mindset Video](https://www.youtube.com/watch?v=Tw18-4U7mts)
 * [Ars Technica on AI Development Futures](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)

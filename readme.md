@@ -108,6 +108,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Dyad](https://www.dyad.sh/) — A lightweight, local platform for creating AI-driven apps without depending on the cloud.
 * [ClaudeCode Launchpad CLI](https://github.com/noambrand/kivun-terminal) — Windows & macOS installer and launcher for Claude Code. 2-minute setup: auto-installs Node.js, Git & Claude Code; adds a live two-line status bar (model, context %, usage limits), desktop shortcut with folder picker, and right-click "Open with ClaudeCode Launchpad CLI" context menu on Windows folders.
+* [ShipPress](https://shippress.codotx.com/) — Free macOS app that uses your existing AI coding agent (Claude Code, Codex, Cursor CLI and others) to build a WordPress site locally through chat, then publish it to a host.
 
 ---
 

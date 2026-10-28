@@ -43,6 +43,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Web-Based Builders
 
+- [AppWizzy](https://appwizzy.com/) — AI-powered web app builder with dedicated cloud development VMs, runtime templates, and Git-based source editing.
 * [Bolt.new](https://bolt.new/) — Rapidly prototype and launch web and mobile apps by prompting.
 * [Lovable](https://lovable.dev/) — Full-stack applications from simple ideas.
 * [Vercel’s v0](https://v0.dev/chat) — Helps design and implement UIs from natural language.

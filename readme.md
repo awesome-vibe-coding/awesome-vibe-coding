@@ -48,6 +48,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Vercel’s v0](https://v0.dev/chat) — Helps design and implement UIs from natural language.
 * [Capacity](https://capacity.so/) — Create production-ready web apps in minutes.
 * [CHAI.new](https://chai.new) — Code and deploy AI agents with prompts.
+* [Newly](https://newly.app/) — Build native iOS and Android apps from natural-language prompts.
 * [Replit](https://replit.com/) — Type what you want and let the AI construct it.
 * [Create](https://www.create.xyz/) — Converts text prompts into usable tools or websites.
 * [Trickle](https://www.trickle.so/) — AI-based visual builder for websites and apps.

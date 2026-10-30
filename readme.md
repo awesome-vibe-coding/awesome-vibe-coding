@@ -168,6 +168,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [CodingButVibes – What Is Vibe Coding](https://www.codingbutvibes.com/what-is-vibe-coding) — Practical breakdown of the vibe coding approach, with tool comparisons and real developer workflows.
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+* [StackPick](https://stackpick.app/) — Directory of AI dev tools for vibe coders that picks one tool per job, with scores, ready-made stacks, head-to-head comparisons, and a weekly feed of what shipped.
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 
 ---

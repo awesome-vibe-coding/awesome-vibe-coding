@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [claude-codex-taskbar](https://github.com/chiarorosa/claude-codex-taskbar) — Windows taskbar widget that shows Claude Code and Codex 5-hour and weekly usage limits alongside CPU, RAM, GPU and disk activity.
 
 ---
 

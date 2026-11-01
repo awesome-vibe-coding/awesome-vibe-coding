@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [StackVersus AI Limits](https://getstackversus.com/limits) — Directory of prices and vendor-stated usage limits for 73 AI coding and assistant plans, with source links, check dates and a change log.
 
 ---
 

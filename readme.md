@@ -78,6 +78,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ---
 
+* [Happier](https://happier.dev) — Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex, OpenCode, Gemini CLI and other coding agents on your own machines from desktop, phone and web.
 ## Mobile Tools
 
 * [VibeCode](https://www.vibecodeapp.com/) — A mobile-first app creator powered by AI.

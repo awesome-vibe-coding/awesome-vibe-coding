@@ -66,6 +66,9 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [MyVibe](https://myvibe.so/) — Instant deployment for AI-generated web apps. Publish via Claude Code skills or direct upload.
 * [Rosebud AI](https://rosebud.ai) — Vibe coding platform for creating 3D games and interactive web apps with AI.
 * [Forge](https://forge-web.rebaselabs.online/) — AI-powered full-stack app creator with BYOK (bring your own API key). Multi-stage pipeline: planning, architecture, code generation, and verification.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ---
 

@@ -147,6 +147,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Project Documentation
 
+* [Awesome Vibe Coding (Taskade)](https://github.com/taskade/awesome-vibe-coding) — Curated index of vibe-coding tools, MCP servers, and learning resources (350+ entries).
 * [CodeGuide](https://www.codeguide.dev/) — Tool that builds documentation for AI-built projects.
 * [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable AI config management platform for teams. Manages AGENTS.md, CLAUDE.md, .cursor/rules/, slash commands, and 30+ formats.
 * [Claude Code Mastery](https://github.com/ShipWithAI/claude-code-mastery) — Structured course for mastering Claude Code workflows, including security, automation, and multi-agent patterns.

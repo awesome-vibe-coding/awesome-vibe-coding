@@ -44,6 +44,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Web-Based Builders
 
 * [Bolt.new](https://bolt.new/) — Rapidly prototype and launch web and mobile apps by prompting.
+- [IdeaMade](https://ideamade.ai/) — Build and publish web apps from natural-language requirements, with editable product blueprints and version history.
 * [Lovable](https://lovable.dev/) — Full-stack applications from simple ideas.
 * [Vercel’s v0](https://v0.dev/chat) — Helps design and implement UIs from natural language.
 * [Capacity](https://capacity.so/) — Create production-ready web apps in minutes.

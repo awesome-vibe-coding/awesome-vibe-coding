@@ -150,6 +150,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [CodeGuide](https://www.codeguide.dev/) — Tool that builds documentation for AI-built projects.
 * [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable AI config management platform for teams. Manages AGENTS.md, CLAUDE.md, .cursor/rules/, slash commands, and 30+ formats.
 * [Claude Code Mastery](https://github.com/ShipWithAI/claude-code-mastery) — Structured course for mastering Claude Code workflows, including security, automation, and multi-agent patterns.
+* [Vibe Coding Rules Starter](https://github.com/theodorecreatesco/vibe-coding-rules-starter) — Free MIT AGENTS.md, CLAUDE.md and Cursor security rule for keeping AI coding agents in scope.
 
 ---
 

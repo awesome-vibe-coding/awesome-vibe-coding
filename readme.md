@@ -128,6 +128,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Bernstein](https://github.com/chernistry/bernstein) — Deterministic orchestrator for vibe coding at scale. Spawns parallel AI coding agents from a single goal, verifies with tests, auto-commits.
 * [sober-coding](https://github.com/voidborne-d/sober-coding) — Vibe code quality analyzer. 27 checks across security, architecture, duplication, error handling, dependencies, testing, and dead code. Language-agnostic with fix suggestions and CI mode.
 * [VibeGrid](https://github.com/jcanizalez/vibegrid) — Multi-agent terminal manager with task queues, workflow automation, and inline diff review.
+* [assay](https://github.com/awss1i/assay) — Deterministic command-line QA tool for web pages. Serves a page, drives every control it finds in Chromium through Playwright, and reports where the page contradicts itself. No tests to write and no LLM. Ships a Python API, an HTML report, and a plugin so AI coding agents can run it after editing a page.
 
 ---
 

@@ -161,6 +161,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [The Way of Code](https://www.thewayofcode.com/)
 * [2025 Tooling Overview on LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf)
 * [Karpathy on Menus and Vibes](https://karpathy.bearblog.dev/vibe-coding-menugen/)
+* [The future of AI agents looks a lot like 2010](https://waldo.vanderlore.de/blog/how-i-run-my-agent-team/)
 * [Fireship: Mindset Video](https://www.youtube.com/watch?v=Tw18-4U7mts)
 * [Ars Technica on AI Development Futures](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 * [The New Stack – Everyone Can Program](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)

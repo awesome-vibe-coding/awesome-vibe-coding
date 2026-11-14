@@ -66,6 +66,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [MyVibe](https://myvibe.so/) — Instant deployment for AI-generated web apps. Publish via Claude Code skills or direct upload.
 * [Rosebud AI](https://rosebud.ai) — Vibe coding platform for creating 3D games and interactive web apps with AI.
 * [Forge](https://forge-web.rebaselabs.online/) — AI-powered full-stack app creator with BYOK (bring your own API key). Multi-stage pipeline: planning, architecture, code generation, and verification.
+* [EveryApp](https://everyapp.pro/app-builder) — Describe an app in your own words and it gets built for you, with its own web address, for you and the people you invite.
 
 ---
 

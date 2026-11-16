@@ -45,6 +45,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Bolt.new](https://bolt.new/) — Rapidly prototype and launch web and mobile apps by prompting.
 * [Lovable](https://lovable.dev/) — Full-stack applications from simple ideas.
+* [Uvilno](https://uvilno.com) — Builds websites and web apps from natural-language prompts, with live previews and chat-based edits.
 * [Vercel’s v0](https://v0.dev/chat) — Helps design and implement UIs from natural language.
 * [Capacity](https://capacity.so/) — Create production-ready web apps in minutes.
 * [CHAI.new](https://chai.new) — Code and deploy AI agents with prompts.

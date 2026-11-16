@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [TeapotRouter](https://teapotrouter.com) — Gateway that gives Claude Code and Codex CLI one shared API key and itemizes what each request costs in a per-request ledger.
 
 ---
 

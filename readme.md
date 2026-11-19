@@ -66,6 +66,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [MyVibe](https://myvibe.so/) — Instant deployment for AI-generated web apps. Publish via Claude Code skills or direct upload.
 * [Rosebud AI](https://rosebud.ai) — Vibe coding platform for creating 3D games and interactive web apps with AI.
 * [Forge](https://forge-web.rebaselabs.online/) — AI-powered full-stack app creator with BYOK (bring your own API key). Multi-stage pipeline: planning, architecture, code generation, and verification.
+* [VibeFix](https://vibe-fixer.com/) — Checks a published vibe-coded app by signing up like a real user, then an AI agent fixes the issues it finds in the code (apps built in Lovable or with code on GitHub) and re-tests the live app.
 
 ---
 

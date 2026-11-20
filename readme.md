@@ -58,6 +58,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Creatr](https://getcreatr.com/) — Build landing pages and simple apps instantly.
 * [Rork](https://rork.app/) — A tool focused on generating mobile apps.
 * [Firebase Studio](https://studio.firebase.google.com/) — Google's take on agent-driven full-stack development.
+* [First.new](https://first.new/) — Build, preview, and publish full-stack web apps from a prompt.
 * [Napkins](https://www.napkins.dev/) — Converts mockups or screenshots into working code.
 * [HeroUI Chat](https://heroui.chat/) — Build interfaces without design expertise.
 * [Rocket.new](https://www.rocket.new/) — Low-code experience for shipping apps.

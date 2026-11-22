@@ -168,6 +168,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [CodingButVibes – What Is Vibe Coding](https://www.codingbutvibes.com/what-is-vibe-coding) — Practical breakdown of the vibe coding approach, with tool comparisons and real developer workflows.
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+* [State of AI & Vibe-Coded Web App Security (2026)](https://zcoldwater.github.io/launch-audit-reports/vibe-security-2026/) — Empirical passive security study of 55 freshly shipped AI-built web apps measuring missing HTTP headers, weak CSP rules, Supabase usage, and anonymized client secret leaks, with MIT hardening configs.
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 
 ---

@@ -108,6 +108,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Dyad](https://www.dyad.sh/) — A lightweight, local platform for creating AI-driven apps without depending on the cloud.
 * [ClaudeCode Launchpad CLI](https://github.com/noambrand/kivun-terminal) — Windows & macOS installer and launcher for Claude Code. 2-minute setup: auto-installs Node.js, Git & Claude Code; adds a live two-line status bar (model, context %, usage limits), desktop shortcut with folder picker, and right-click "Open with ClaudeCode Launchpad CLI" context menu on Windows folders.
+* [Olympus Coder](https://github.com/martianacademy/olympus-coder) — Free, Apache-2.0 desktop workbench and zero-Electron headless VPS server for Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents, with shared project memory, parallel sub-sessions, isolated Git worktrees, per-hunk diff review, 1-click fresh context carryover, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
 
 ---
 

@@ -142,6 +142,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Monitoring & Cost Tracking
 
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
+* [Real cost of vibe coding](https://realvibecost.dev) — Sourced database of self-reported app build costs on Lovable, Bolt, Replit, v0, Base44 and Cursor, plus each tool's official plan-price history.
 
 ---
 

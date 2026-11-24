@@ -66,6 +66,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [MyVibe](https://myvibe.so/) — Instant deployment for AI-generated web apps. Publish via Claude Code skills or direct upload.
 * [Rosebud AI](https://rosebud.ai) — Vibe coding platform for creating 3D games and interactive web apps with AI.
 * [Forge](https://forge-web.rebaselabs.online/) — AI-powered full-stack app creator with BYOK (bring your own API key). Multi-stage pipeline: planning, architecture, code generation, and verification.
+* [Vibes DIY](https://vibes.diy/) — Turns a sentence into a working web app at a shareable link, with saved data, sign-in and one-tap remixing.
 
 ---
 
@@ -169,6 +170,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [The Remix Is the On-Ramp](https://good.vibes.diy/blog/the-remix-is-the-on-ramp) — A drum machine turned into four apps in one night, each a remix of the last.
 
 ---
 

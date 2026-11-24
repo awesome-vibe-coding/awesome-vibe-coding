@@ -141,6 +141,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Monitoring & Cost Tracking
 
+* [AI Apps That Work](https://aiappsthatwork.com/) — Paid Next.js template for apps with AI features that records which AI results users had to redo and what each one cost, so Claude Code or Cursor fixes the worst first.
 * [Budi](https://github.com/siropkin/budi) — Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
 ---

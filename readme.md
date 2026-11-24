@@ -169,6 +169,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [How to Check if Your Vibe-Coded App Is Secure](https://usesaqr.com/guides/vibe-coded-app-security/) - Eight checks to do by hand on an app built with Lovable, Bolt, Cursor or another AI tool: signed-out data, other users' records, keys in scripts, public files, admin pages, sign-in limits, uploads and headers.
 
 ---
 

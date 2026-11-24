@@ -108,6 +108,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [Dyad](https://www.dyad.sh/) — A lightweight, local platform for creating AI-driven apps without depending on the cloud.
 * [ClaudeCode Launchpad CLI](https://github.com/noambrand/kivun-terminal) — Windows & macOS installer and launcher for Claude Code. 2-minute setup: auto-installs Node.js, Git & Claude Code; adds a live two-line status bar (model, context %, usage limits), desktop shortcut with folder picker, and right-click "Open with ClaudeCode Launchpad CLI" context menu on Windows folders.
+* [TernaryCode](https://github.com/ilhamnadhif/ternarycode) — Free, MIT-licensed native Rust workspace (macOS, Windows, Linux) for running Claude Code, Codex, OpenCode, and Antigravity CLI across projects in one window, with hook-backed status and waiting alerts (`⌘J`), multi-account 5-hour/weekly failover, git worktrees with one-button PR, an embedded MCP browser, and a local Wi-Fi phone companion.
 
 ---
 

@@ -106,7 +106,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 ## Desktop & Local Apps
 
-* [Calyban](https://calyban.com) — Free Windows app that installs MCP servers, skills and plugins into Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI, checks each one before installing, and can undo it.
+* [Calyban](https://calyban.com) — Free Windows and Linux app that installs MCP servers, skills and plugins into Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI, checks each one before installing, and can undo it.
 * [Dyad](https://www.dyad.sh/) — A lightweight, local platform for creating AI-driven apps without depending on the cloud.
 * [ClaudeCode Launchpad CLI](https://github.com/noambrand/kivun-terminal) — Windows & macOS installer and launcher for Claude Code. 2-minute setup: auto-installs Node.js, Git & Claude Code; adds a live two-line status bar (model, context %, usage limits), desktop shortcut with folder picker, and right-click "Open with ClaudeCode Launchpad CLI" context menu on Windows folders.
 

@@ -169,6 +169,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 * [Reddit: /r/vibecoding](https://www.reddit.com/r/vibecoding/)
 * [Reddit: /r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+* [We checked 115 live AI-built apps](https://vibe-fixer.com/guides/we-checked-115-ai-built-apps) - Dated study of what new visitors hit on live AI-built apps (sign-up, phone layout, data readable without login), with method and limits.
 
 ---
 

@@ -82,6 +82,7 @@ This list focuses on tools and workflows where AI plays a central role in the de
 
 * [VibeCode](https://www.vibecodeapp.com/) — A mobile-first app creator powered by AI.
 * [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents.
+* [Cawide](https://cawide.dev) — Native iPhone app and open source CLI to run Claude Code, Codex, OMP and OpenCode on your computer and control them from your phone.
 
 ---
 
